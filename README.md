@@ -4,7 +4,7 @@
 
 ![Thiagy GitHub stats](https://github-readme-stats.vercel.app/api?username=Thiagy&show_icons=true&theme=radical)
 
-### skills:
+### Tecnologias que domino:
 
 <div style="display: inline_block">
 
@@ -22,10 +22,10 @@
   <img align='center' alt="HTML5" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/><br/>
   <img align='center' alt="HTML5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img align='center' alt="HTML5" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img style="margin-bottom: 5px" align='center' alt="HTML5" src="https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue"/>
-  <img style="margin-bottom: 5px" align='center' alt="HTML5" src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink"/><br/>
-  <img style="margin-bottom: 5px" align='center' alt="HTML5" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img style="margin-bottom: 5px" align='center' alt="HTML5" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img align='center' alt="HTML5" src="https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue"/>
+  <img align='center' alt="HTML5" src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink"/><br/>
+  <img align='center' alt="HTML5" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img align='center' alt="HTML5" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   
 </div> <br/>
 
