@@ -1,4 +1,4 @@
-### Olá, Sou Thiago Rodrigues 👋
+### Olá, Sou Thiago Rodrigues, Graduado em Análise e Desenvolvimento de Sistemas e pós-graduado em Engenharia de Software. 👋
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-rodrigues-software/)
 
